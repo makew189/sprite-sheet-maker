@@ -1,0 +1,11 @@
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+captures/
+.DS_Store
+# jangan pernah mengunggah kunci tanda tangan
+*.keystore
+*.jks
+keystore.properties
